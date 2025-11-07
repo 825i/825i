@@ -9,4 +9,4 @@ I am a Lead DevOps Engineer and specialist in Payments and Migrations. For over 
 - 📫 How to reach me: I'll reach you.
 - ⚡ Fun fact: Former Marine Biologist 🧪, travelled 80+ countries ✈️, worked in 11 timezones ⏲️, collector of extremely rare casette walkmans 📼.
 
-John 3:16 ✝️
+[John 3:16](https://www.gotquestions.org/John-3-16.html) ✝️
