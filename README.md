@@ -4,6 +4,7 @@ I am a Lead DevOps Engineer and specialist in Payments and Migrations. For over 
 
 - 🔭 I’m currently working on Python 🐍, Kotlin 📱 and Ruby 💎 professionally.
 - 🌱 I’m currently learning Verilog 📜 & GML 🎮 as a hobby.
+- ☁️ I am certified across all three major cloud providers.
 - 👯 I’m contributing open-source to: [logseq](https://github.com/logseq/logseq), [Binternet](https://github.com/Ahwxorg/Binternet), [manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) plus some game upscaling clubs.
 - 💬 Ask me about DevSecOps 🛠️, SRE 📈, Python 🐍, Linux 🐧 and emulators 🎲.
 - 📫 How to reach me: I'll reach you.
