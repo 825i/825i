@@ -1,6 +1,6 @@
 ## G'day there 👋
 
-I am a Lead DevSecOps Engineer and specialist in Payments and Migrations. For over 16 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
+I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Migrations. For over 16 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
 
 - 🔭 I’m currently working on Python 🐍, Kotlin 📱 and Ruby 💎 professionally.
 - ☁️ I am certified across all three major cloud providers (AWS✔️, Azure✔️, Google✔️)
