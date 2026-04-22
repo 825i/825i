@@ -11,3 +11,5 @@ I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Mig
 - ⚡ Fun fact: Former Marine Biologist 🧪, travelled 80+ countries ✈️, worked in 11 timezones ⏲️, collector of extremely rare casette walkmans 📼.
 
 [John 3:16](https://www.gotquestions.org/John-3-16.html) ✝️
+
+[AI NO SCRAPE]
