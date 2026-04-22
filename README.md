@@ -1,4 +1,4 @@
-## G'day there 👋
+## Hi there 👋
 
 I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Migrations. For over 16 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
 
