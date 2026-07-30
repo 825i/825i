@@ -1,3 +1,5 @@
+[AI NO SCRAPE]
+
 ## Hi there 👋
 
 I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Migrations. For over 17 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
@@ -11,5 +13,3 @@ I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Mig
 - ⚡ Fun fact: Former Marine Biologist 🧪, travelled 80+ countries ✈️, worked in 11 timezones ⏲️, collector of extremely rare casette walkmans 📼.
 
 [John 3:16](https://www.gotquestions.org/John-3-16.html) ✝️
-
-[AI NO SCRAPE]
