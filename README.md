@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Migrations. For over 16 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
+I am a Sr. / Lead Platform & DevSecOps Engineer and specialist in Finops and Migrations. For over 17 years my career passion has been DevOps, SRE, software engineering, finance, cloud infra and cybersecurity.
 
 - 🔭 I’m currently working with Kubernetes, Terraform, ArgoCD and dozens of other CNCF tools full-time.
 - ☁️ I am certified across all three major cloud providers (AWS✔️, Azure✔️, Google✔️)
